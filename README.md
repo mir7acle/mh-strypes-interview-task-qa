@@ -1,0 +1,1 @@
+# mh-strypes-interview-task-qa
