@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-17T12:06:13 EET" name="Home Page" finished-at="2023-03-17T12:06:33 EET" duration-ms="20540">
+    <groups>
+    </groups>
+    <test started-at="2023-03-17T12:06:13 EET" name="Swiper Slide Tests" finished-at="2023-03-17T12:06:33 EET" duration-ms="20540">
+      <class name="miroslavahristova.MHSeleniumFramework.StrypesTestBasic">
+        <test-method is-config="true" signature="prepareTestBasic()[pri:0, instance:miroslavahristova.MHSeleniumFramework.StrypesTestBasic@7cc0cdad]" started-at="2023-03-17T12:06:13 EET" name="prepareTestBasic" finished-at="2023-03-17T12:06:17 EET" duration-ms="4334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTestBasic -->
+        <test-method signature="tcClickLearnMore()[pri:0, instance:miroslavahristova.MHSeleniumFramework.StrypesTestBasic@7cc0cdad]" started-at="2023-03-17T12:06:17 EET" name="tcClickLearnMore" finished-at="2023-03-17T12:06:22 EET" duration-ms="4883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcClickLearnMore -->
+        <test-method signature="tcOpenHomePageSlideFirst()[pri:0, instance:miroslavahristova.MHSeleniumFramework.StrypesTestBasic@7cc0cdad]" started-at="2023-03-17T12:06:22 EET" name="tcOpenHomePageSlideFirst" finished-at="2023-03-17T12:06:23 EET" duration-ms="1285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcOpenHomePageSlideFirst -->
+        <test-method signature="tcPagBulletsEqualToSlideCount()[pri:0, instance:miroslavahristova.MHSeleniumFramework.StrypesTestBasic@7cc0cdad]" started-at="2023-03-17T12:06:23 EET" name="tcPagBulletsEqualToSlideCount" finished-at="2023-03-17T12:06:23 EET" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcPagBulletsEqualToSlideCount -->
+        <test-method signature="tcSlideNavLeftNarrow()[pri:0, instance:miroslavahristova.MHSeleniumFramework.StrypesTestBasic@7cc0cdad]" started-at="2023-03-17T12:06:23 EET" name="tcSlideNavLeftNarrow" finished-at="2023-03-17T12:06:24 EET" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcSlideNavLeftNarrow -->
+        <test-method signature="tcSlideNavRightNarrow()[pri:0, instance:miroslavahristova.MHSeleniumFramework.StrypesTestBasic@7cc0cdad]" started-at="2023-03-17T12:06:24 EET" name="tcSlideNavRightNarrow" finished-at="2023-03-17T12:06:25 EET" duration-ms="1668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcSlideNavRightNarrow -->
+        <test-method signature="tcSlileAutoChange()[pri:0, instance:miroslavahristova.MHSeleniumFramework.StrypesTestBasic@7cc0cdad]" started-at="2023-03-17T12:06:25 EET" name="tcSlileAutoChange" finished-at="2023-03-17T12:06:33 EET" duration-ms="7302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcSlileAutoChange -->
+        <test-method signature="tcSlilePaginationNav()[pri:0, instance:miroslavahristova.MHSeleniumFramework.StrypesTestBasic@7cc0cdad]" started-at="2023-03-17T12:06:33 EET" name="tcSlilePaginationNav" finished-at="2023-03-17T12:06:33 EET" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcSlilePaginationNav -->
+        <test-method is-config="true" signature="endTestBasic()[pri:0, instance:miroslavahristova.MHSeleniumFramework.StrypesTestBasic@7cc0cdad]" started-at="2023-03-17T12:06:33 EET" name="endTestBasic" finished-at="2023-03-17T12:06:33 EET" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTestBasic -->
+      </class> <!-- miroslavahristova.MHSeleniumFramework.StrypesTestBasic -->
+    </test> <!-- Swiper Slide Tests -->
+  </suite> <!-- Home Page -->
+</testng-results>
